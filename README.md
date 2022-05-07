@@ -3,20 +3,31 @@ UCF Spring 2022
 
 Professor: Shahram Jahani
 
-Assignments:
+================================Assignments===================================
 
 Assignment #1:
 
+     Description: General intro to java programs.
+        
 Assignment #2:
 
+     Description: Java projects that involve basic math equations and character checks etc.
+        
 Assignment #3:
 
+     Description: Java projects. Use of nested for loops, display in terminal, and extra functions.
+        
 Assignment #4:
 
+     Description: Regular java projects. Some involve using sorting in java.
+        
 Assignment #5:
 
+     Description: Intro to using other classes. Creating UMLs as wells.
+        
 Assignment #6:
 
+     Description: Extra credit problems.
 
 Final OOP project: NicolasGonzalezProject
     
