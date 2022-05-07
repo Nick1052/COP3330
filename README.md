@@ -9,7 +9,7 @@ Assignment #1: NicolasGonzalez_HW1
 
      Description: General intro to java programs.
         
-Assignment #2:
+Assignment #2: NicolasGonzalez_HW2
 
      Description: Java projects that involve basic math equations and character checks etc.
         
