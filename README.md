@@ -13,19 +13,19 @@ Assignment #2: NicolasGonzalez_HW2
 
      Description: Java projects that involve basic math equations and character checks etc.
         
-Assignment #3:
+Assignment #3: NicolasGonzalez_HW3
 
      Description: Java projects. Use of nested for loops, display in terminal, and extra functions.
         
-Assignment #4:
+Assignment #4: NicolasGonzalez_HW4
 
      Description: Regular java projects. Some involve using sorting in java.
         
-Assignment #5:
+Assignment #5: NicolasGonzalez_HW5
 
      Description: Intro to using other classes. Creating UMLs as wells.
         
-Assignment #6:
+Assignment #6: NicolasGonzalez_HW6
 
      Description: Extra credit problems.
 
