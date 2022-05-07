@@ -3,7 +3,7 @@ UCF Spring 2022
 
 Professor: Shahram Jahani
 
-================================Assignments===================================
+=====================================Assignments===================================
 
 Assignment #1: NicolasGonzalez_HW1
 
