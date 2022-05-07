@@ -5,7 +5,7 @@ Professor: Shahram Jahani
 
 ================================Assignments===================================
 
-Assignment #1:
+Assignment #1: NicolasGonzalez_HW1
 
      Description: General intro to java programs.
         
